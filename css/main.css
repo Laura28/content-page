@@ -22,3 +22,7 @@ html {
 body {
   margin: 0;
 }
+
+.title {
+  border-bottom: #000 1px;
+}
