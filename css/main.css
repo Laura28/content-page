@@ -23,6 +23,8 @@ body {
   margin: 0;
 }
 
-.title {
-  border-bottom: #000 1px;
+hr {
+  size: 1px #000;
+  margin-left: .5em;
+  margin-right: .5em;
 }
